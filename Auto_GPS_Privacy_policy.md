@@ -28,7 +28,7 @@ AutoGPS implements security measures to protect user's personal information. Dat
 
 For inquiries related to the privacy policy or personal information, users can contact us at the following email address:
 
-Name: Lee  DongGu
+Name: Lee  DongGu  
 Email: nuclomu@gmail.com
 
 The privacy policy may be subject to change due to legal, policy, or security requirements. In the event of any changes, users will be notified, and consent will be re-obtained.
